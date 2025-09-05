@@ -1,0 +1,5 @@
+{
+  "name": "B.Tech Study Hub",
+  "description": "A collaborative platform for B.Tech students to share and access study materials like PDFs, images, and YouTube videos. Features include categorization by academic year, a search function, and a discussion board.",
+  "requestFramePermissions": []
+}
